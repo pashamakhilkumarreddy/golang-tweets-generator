@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Star Wars",
+    "review": "Great, this film was",
+    "score": 77
+  },
+  {
+    "title": "Star Wars The Force Awakens",
+    "review": "A long time ago in a galaxy far far away someone made the best sci-fi film of all time. Then some chap came along and basically made the same movie again",
+    "score": 50
+  },
+  {
+    "title": "Metropolis",
+    "review": "Another movie about a robot. Very strong futuristic look. But also very very old. Hard to understand what was happening because the audio was too low",
+    "score": 15
+  },
+  {
+    "title": "Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb",
+    "review": "Hilarious Kubrick satire",
+    "score": 100
+  },
+  {
+    "title": "Plan 9 from outer space",
+    "review": "So bad it's bad",
+    "score": 7
+  }
+]
